@@ -1,0 +1,43 @@
+{
+    "name": "The SpamHard Bot",
+    "description": "AN AMAZING BOT THAT CAN SPAM ANYWHERE ....",
+    "logo": "https://telegra.ph/file/3f2400fa5eeec4ba0a80d.jpg",
+    "keywords": [
+        "Music",
+        "VC Player",
+        "Telegram Bot",
+        "OverLoadVC Bot"
+    ],
+    "website": "https://github.com/SUBHxTREM",
+    "repository": "https://github.com/SUBHxTREM/https://SpamHard",
+    "success_url": "https://t.me/official_learning_zone",
+    "env": {
+        "STRING_SESSION": {
+            "description": "Your pyrogram string session from https://replit.com/@SpEcHiDe/GenerateStringSession",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Your APP ID from my.telegram.org",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
