@@ -32,7 +32,7 @@
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝚝𝚑𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝✳️ 
 - [![Owner](https://img.shields.io/badge/-OWNER%20--SUBHxTREM-red)](https://github.com/SUBHxTREM)
-- [![repo Size](https://img.shields.io/github/repo-size/SUBHxTREM/OverLoadVC?style=plastic&color=red)](https://github.com/SUBHxTREM/SpamHard/) 
+- [![repo Size](https://img.shields.io/github/repo-size/SUBHxTREM/SpamHard?style=plastic&color=red)](https://github.com/SUBHxTREM/SpamHard/) 
 - [![licence](https://img.shields.io/badge/LICENSE-GNU%20v3.0-blue)](https://github.com/SUBHxTREM/SpamHard/blob/main/LICENSE)
 - [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ## 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚒𝚗𝚏𝚘📨..
