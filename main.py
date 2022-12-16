@@ -1,10 +1,8 @@
 from telethon import TelegramClient , events
 
-api_id = 16504923
-api_hash = "26a3b7d550b179f1f7bc37f9ffe13495"
-
-
-
+api_id=Config.API_ID
+api_hash=Config.API_HASH
+session_name=Config.STRING_SESSION
 
 pussy = TelegramClient("session" , api_id , api_hash ,)
 
